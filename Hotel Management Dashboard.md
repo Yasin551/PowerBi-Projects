@@ -8,25 +8,18 @@ It transforms raw hotel booking and operational data into interactive dashboards
 To help stakeholders make data-driven decisions by analyzing:
 - Booking trends
 - Revenue performance
-- Occupancy rates
 - Cancellation patterns
 
 ## 📊 Key Features
 - Booking & cancellation analysis
-- Revenue and occupancy insights
-- Customer trend analysis
+- Revenue insights
 - Interactive dashboard reporting
 
 ## 🛠 Tools & Technologies
-- Power BI / Excel
+- Power BI
 - DAX (Data Analysis Expressions)
 - Data Cleaning & Transformation
 
-## 📈 Insights Generated
-- Peak and low booking periods
-- Revenue contribution by segments
-- Customer behavior patterns
-- Performance comparison over time
 
 ## 🚀 Project Outcome
 This project demonstrates practical data analytics skills applied in the hospitality industry and showcases business intelligence capabilities.
